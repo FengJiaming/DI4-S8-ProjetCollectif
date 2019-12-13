@@ -1,0 +1,36 @@
+table.reservation{
+    border-width: 1px;
+    border-style: solid;
+    text-align: center;
+    width: 100%;
+}
+
+th{
+    text-align: center;
+}
+
+div.form-group{
+    display: inline-block;
+}
+
+td.descriptif{
+    border-width: 1px;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+}
+
+td.description{
+    border-width: 1px;
+    border-bottom-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+}
+
+table.description{
+    width: 100%;
+}
+
+td{
+    padding: 15px;
+}

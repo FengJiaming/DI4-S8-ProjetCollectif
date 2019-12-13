@@ -1,0 +1,8 @@
+#borrows {
+    table-layout: fixed;
+}
+
+#borrows td {
+    overflow:hidden;
+    text-overflow: ellipsis;
+}
